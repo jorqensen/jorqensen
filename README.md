@@ -4,9 +4,7 @@ I'm Mathias, a software developer currently located in the cold north of Denmark
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,php,golang,react,vuejs,solidjs,svelte,postgresql,bun,deno,bash,debian,windows,ansible,docker&theme=light&perline=8#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,php,golang,react,vuejs,solidjs,svelte,postgresql,bun,deno,bash,debian,windows,ansible,docker&theme=dark&perline=8#gh-light-mode-only)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,php,golang,react,vuejs,solidjs,svelte,postgresql,bun,deno,bash,debian,windows,ansible,docker&theme=light&perline=8)](https://skillicons.dev)
 
 ## Work / Experience
 
