@@ -17,6 +17,6 @@ I currently work at [Ordbogen A/S](https://ordbogen.com/en) as our customer succ
 
 ## Projects
 
-- [CSV Explorer](https://csv-explorer.jorqensen.dev/) — Upload and explore CSV files with ease.
-- [Github Directory Downloader](https://ghdl.jorqensen.dev) — Download entire repos, or a subset of them, into a `.zip` file.
-- [CIDR Calculator](https://cidr.jorqensen.dev) — Convert CIDR notation & split into N groups or by chunk size.
+- [CSV Explorer](https://csv.shard.quest/) — Upload and explore CSV files with ease.
+- [Github Directory Downloader](https://ghdl.shard.quest) — Download entire repos, or a subset of them, into a `.zip` file.
+- [CIDR Calculator](https://cidr.shard.quest) — Convert CIDR notation & split into N groups or by chunk size.
